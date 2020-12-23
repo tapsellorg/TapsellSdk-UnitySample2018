@@ -3,7 +3,7 @@
     <repositories>
       <repository>https://dl.bintray.com/tapsellorg/maven</repository>
     </repositories>
-    <androidPackage spec="ir.tapsell.sdk:tapsell-sdk-unity:4.5.0"/>
+    <androidPackage spec="ir.tapsell.sdk:tapsell-sdk-unity:4.6.2"/>
   </androidPackages>
 </dependencies>
 

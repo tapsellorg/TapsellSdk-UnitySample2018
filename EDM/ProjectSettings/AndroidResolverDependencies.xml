@@ -1,6 +1,6 @@
 <dependencies>
   <packages>
-    <package>ir.tapsell.sdk:tapsell-sdk-unity:4.5.0</package>
+    <package>ir.tapsell.sdk:tapsell-sdk-unity:4.6.2</package>
   </packages>
   <files>
     <file>Assets/Plugins/Android/androidx.annotation.annotation-1.0.0.jar</file>
@@ -47,6 +47,6 @@
     <file>Assets/Plugins/Android/com.squareup.okio.okio-1.15.0.jar</file>
     <file>Assets/Plugins/Android/com.squareup.retrofit2.converter-gson-2.5.0.jar</file>
     <file>Assets/Plugins/Android/com.squareup.retrofit2.retrofit-2.5.0.jar</file>
-    <file>Assets/Plugins/Android/ir.tapsell.sdk.tapsell-sdk-unity-4.5.0.aar</file>
+    <file>Assets/Plugins/Android/ir.tapsell.sdk.tapsell-sdk-unity-4.6.2.aar</file>
   </files>
 </dependencies>
